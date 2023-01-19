@@ -1,0 +1,4 @@
+enum ProfileSection {
+  matches,
+  stats,
+}

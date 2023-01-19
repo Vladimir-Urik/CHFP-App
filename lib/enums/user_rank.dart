@@ -1,0 +1,4 @@
+enum UserRank {
+  trainer,
+  player
+}
